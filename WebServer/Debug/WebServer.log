@@ -1,0 +1,7 @@
+﻿  TcpWebServer.cpp
+c:\users\erank\source\repos\webserver\webserver\tcpwebserver.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\erank\source\repos\webserver\webserver\tcpwebserver.cpp(376): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\erank\source\repos\webserver\webserver\tcpwebserver.cpp(376): note: placeholders and their parameters expect 9 variadic arguments, but 10 were provided
+c:\users\erank\source\repos\webserver\webserver\tcpwebserver.cpp(478): warning C4101: 'currTime': unreferenced local variable
+c:\users\erank\source\repos\webserver\webserver\tcpwebserver.cpp(508): warning C4101: 'letter': unreferenced local variable
+  WebServer.vcxproj -> C:\Users\erank\source\repos\WebServer\Debug\WebServer.exe
